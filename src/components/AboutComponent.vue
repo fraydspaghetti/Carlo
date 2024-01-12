@@ -32,8 +32,8 @@
               : 'text-h6 text-weight-light'
           "
         >
-          Hello there! I'm Carlo Yncierto, a committed software engineer with a
-          focus on developing web, mobile, and desktop applications. My
+          Hello everyone!! I'm Carlo Yncierto, a committed software engineer
+          with a focus on developing web, mobile, and desktop applications. My
           proficiency lies in JavaScript, and my goal is to enhance web
           accessibility. I currently achieving my Bachelor's Degree in
           Information Technology at Cordova Public College. I am enthusiastic
